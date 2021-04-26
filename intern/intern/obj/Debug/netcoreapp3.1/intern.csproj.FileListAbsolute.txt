@@ -1,0 +1,12 @@
+/Users/eneskilic/Projects/intern/intern/bin/Debug/netcoreapp3.1/intern.deps.json
+/Users/eneskilic/Projects/intern/intern/bin/Debug/netcoreapp3.1/intern.runtimeconfig.json
+/Users/eneskilic/Projects/intern/intern/bin/Debug/netcoreapp3.1/intern.runtimeconfig.dev.json
+/Users/eneskilic/Projects/intern/intern/bin/Debug/netcoreapp3.1/intern.dll
+/Users/eneskilic/Projects/intern/intern/bin/Debug/netcoreapp3.1/intern.pdb
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.csprojAssemblyReference.cache
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.AssemblyInfoInputs.cache
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.AssemblyInfo.cs
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.csproj.CoreCompileInputs.cache
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.dll
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.pdb
+/Users/eneskilic/Projects/intern/intern/obj/Debug/netcoreapp3.1/intern.genruntimeconfig.cache
